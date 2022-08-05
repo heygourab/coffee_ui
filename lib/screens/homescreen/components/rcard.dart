@@ -1,5 +1,5 @@
-import 'package:coffee_/contanst.dart';
-import 'package:coffee_/models/r_models.dart';
+import 'package:coffee_ui/contanst.dart';
+import 'package:coffee_ui/models/r_models.dart';
 import 'package:flutter/material.dart';
 
 class Rcard extends StatelessWidget {
