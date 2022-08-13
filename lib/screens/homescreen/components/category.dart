@@ -20,6 +20,7 @@ class _CategoryState extends State<Category> {
       'Flat white',
       'Black Coffee'
     ];
+
     return Container(
       padding: const EdgeInsets.only(left: defaultPadding),
       height: 50,
